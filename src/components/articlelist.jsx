@@ -1,5 +1,5 @@
-import React from 'react';
-import Article from './Article';
+import React from "react";
+import Article from "./Article";
 
 function ArticleList({ articles }) {
   return (
